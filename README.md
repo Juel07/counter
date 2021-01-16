@@ -1,6 +1,6 @@
-### General info 
+### General info
 
-(work in progress) A number counter that will update itself as you click the + or - button.
+Simple Counter - The count displayed will increment/decrement as you click the + or - button. The count will not decrement below zero.
 
 ### To view
 
