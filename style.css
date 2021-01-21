@@ -92,11 +92,11 @@ button:hover {
 
 @media screen and (max-width: 426px) {
   h3 {
-    font: bold 24px/120% Georgia, serif;
+    font-size: 24px;
   }
 
   p {
-    font: normal 14px/120% Georgia, serif;
+    font-size: 14px;
     padding: 0.3em 1em;
   }
 
