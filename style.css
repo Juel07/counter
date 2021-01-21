@@ -20,25 +20,23 @@ body {
   padding: 5em 0;
 }
 
-h1 {
+h1, h3, p {
   text-align: center;
-  font: bold 80px/120% Arial, "Helvetica", sans-serif;
-  opacity: 0.9;
   color: #001f3e;
+  opacity: 0.9;
+}
+
+h1 {
+  font: bold 80px/120% Arial, "Helvetica", sans-serif;
 }
 
 h3 {
-  text-align: center;
   text-transform: uppercase;
   font: bold 34px/120% Georgia, serif;
-  opacity: 0.9;
-  color: #001f3e;
 }
 
 p {
-  text-align: center;
   font: 400 16px/120% "Rubik", sans-serif;
-  color: #001f3e;
   padding: 0.3em 1em;
 }
 
